@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\bin\Debug\Convocatoria.exe.config
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\bin\Debug\Convocatoria.exe
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\bin\Debug\Convocatoria.pdb
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.Form1.resources
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.Properties.Resources.resources
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.exe
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.pdb
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.Plazos.resources
+C:\Users\USER\source\repos\Convocatoria\Convocatoria\obj\Debug\Convocatoria.Visualizacion.resources
